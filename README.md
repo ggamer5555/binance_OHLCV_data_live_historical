@@ -2,6 +2,14 @@
 
 A C++20 toolkit for collecting Binance 1-minute OHLCV/kline market data, storing it in compact daily binary files, recording live stream latency metrics, and visualizing the results in a local browser dashboard.
 
+
+<img width="1294" height="776" alt="image" src="https://github.com/user-attachments/assets/3b10c26a-c0e9-4e91-a5b1-d540eed29bed" />
+
+
+<img width="1321" height="814" alt="btc1" src="https://github.com/user-attachments/assets/73308d9b-43e8-4eee-affb-f7a28d97f5a9" />
+
+
+
 The repository contains two main programs:
 
 | File | Purpose |

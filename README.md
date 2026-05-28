@@ -11,8 +11,6 @@ A C++20 toolkit for collecting Binance 1-minute OHLCV/kline market data, storing
 
 
 
-
-
 The repository contains two main programs:
 
 | File | Purpose |
@@ -404,4 +402,3 @@ This codebase is suitable for a local market-data collection and monitoring work
 ## Disclaimer
 
 This software is for data collection, research, and visualization. It does not place trades and does not provide financial advice.
-
